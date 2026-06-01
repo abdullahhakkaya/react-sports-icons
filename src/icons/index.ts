@@ -1,0 +1,13 @@
+export { BadmintonIcon } from "./BadmintonIcon";
+export { BasketballIcon } from "./BasketballIcon";
+export { FootballIcon } from "./FootballIcon";
+export { KarateIcon } from "./KarateIcon";
+export { MartialArtsIcon } from "./MartialArtsIcon";
+export { WrestlingIcon } from "./WrestlingIcon";
+export { PingPongIcon } from "./PingPongIcon";
+export { SwimmingIcon } from "./SwimmingIcon";
+export { TaekwondoIcon } from "./TaekwondoIcon";
+export { ArcheryIcon } from "./ArcheryIcon";
+export { TennisIcon } from "./TennisIcon";
+export { VolleyballIcon } from "./VolleyballIcon";
+export { GymnasticsIcon } from "./GymnasticsIcon";
