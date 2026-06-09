@@ -1,16 +1,16 @@
 {
   "name": "@abdullahakkaya/sports-react-icons",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "React sports icon library generated from SVG assets",
   "author": "Abdullah Akkaya",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/abdullahhakkaya/sports-react-icons.git"
+    "url": "git+https://github.com/abdullahhakkaya/react-sports-icons.git"
   },
-  "homepage": "https://github.com/abdullahhakkaya/sports-react-icons#readme",
+  "homepage": "https://github.com/abdullahhakkaya/react-sports-icons#readme",
   "bugs": {
-    "url": "https://github.com/abdullahhakkaya/sports-react-icons/issues"
+    "url": "https://github.com/abdullahhakkaya/react-sports-icons/issues"
   },
   "main": "dist/index.cjs",
   "module": "dist/index.js",
