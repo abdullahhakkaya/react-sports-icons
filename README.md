@@ -53,19 +53,19 @@ All icons accept `IconProps`:
 
 | Icon | Preview |
 | --- | --- |
-| `ArcheryIcon` | <img src="./svgs/target-archer-svgrepo-com.svg" alt="Archery icon" width="72" /> |
-| `BadmintonIcon` | <img src="./svgs/badminton-svgrepo-com.svg" alt="Badminton icon" width="72" /> |
-| `BasketballIcon` | <img src="./svgs/basketball-goal-svgrepo-com.svg" alt="Basketball icon" width="72" /> |
-| `FootballIcon` | <img src="./svgs/football-soccer-svgrepo-com.svg" alt="Football icon" width="72" /> |
-| `GymnasticsIcon` | <img src="./svgs/woman-cartwheeling-medium-light-skin-tone-svgrepo-com.svg" alt="Gymnastics icon" width="72" /> |
-| `KarateIcon` | <img src="./svgs/karate-fighter-svgrepo-com.svg" alt="Karate icon" width="72" /> |
-| `MartialArtsIcon` | <img src="./svgs/martial-arts-uniform-svgrepo-com.svg" alt="Martial arts icon" width="72" /> |
-| `PingPongIcon` | <img src="./svgs/ping-pong-svgrepo-com.svg" alt="Ping pong icon" width="72" /> |
-| `SwimmingIcon` | <img src="./svgs/swimming-swim-svgrepo-com.svg" alt="Swimming icon" width="72" /> |
-| `TaekwondoIcon` | <img src="./svgs/taekwondo-svgrepo-com.svg" alt="Taekwondo icon" width="72" /> |
-| `TennisIcon` | <img src="./svgs/tennis-svgrepo-com.svg" alt="Tennis icon" width="72" /> |
-| `VolleyballIcon` | <img src="./svgs/volleyball-svgrepo-com.svg" alt="Volleyball icon" width="72" /> |
-| `WrestlingIcon` | <img src="./svgs/people-wrestling-light-skin-tone-svgrepo-com.svg" alt="Wrestling icon" width="72" /> |
+| `ArcheryIcon` | <img src="https://raw.githubusercontent.com/abdullahhakkaya/sports-react-icons/main/svgs/target-archer-svgrepo-com.svg" alt="Archery icon" width="72" /> |
+| `BadmintonIcon` | <img src="https://raw.githubusercontent.com/abdullahhakkaya/sports-react-icons/main/svgs/badminton-svgrepo-com.svg" alt="Badminton icon" width="72" /> |
+| `BasketballIcon` | <img src="https://raw.githubusercontent.com/abdullahhakkaya/sports-react-icons/main/svgs/basketball-goal-svgrepo-com.svg" alt="Basketball icon" width="72" /> |
+| `FootballIcon` | <img src="https://raw.githubusercontent.com/abdullahhakkaya/sports-react-icons/main/svgs/football-soccer-svgrepo-com.svg" alt="Football icon" width="72" /> |
+| `GymnasticsIcon` | <img src="https://raw.githubusercontent.com/abdullahhakkaya/sports-react-icons/main/svgs/woman-cartwheeling-medium-light-skin-tone-svgrepo-com.svg" alt="Gymnastics icon" width="72" /> |
+| `KarateIcon` | <img src="https://raw.githubusercontent.com/abdullahhakkaya/sports-react-icons/main/svgs/karate-fighter-svgrepo-com.svg" alt="Karate icon" width="72" /> |
+| `MartialArtsIcon` | <img src="https://raw.githubusercontent.com/abdullahhakkaya/sports-react-icons/main/svgs/martial-arts-uniform-svgrepo-com.svg" alt="Martial arts icon" width="72" /> |
+| `PingPongIcon` | <img src="https://raw.githubusercontent.com/abdullahhakkaya/sports-react-icons/main/svgs/ping-pong-svgrepo-com.svg" alt="Ping pong icon" width="72" /> |
+| `SwimmingIcon` | <img src="https://raw.githubusercontent.com/abdullahhakkaya/sports-react-icons/main/svgs/swimming-swim-svgrepo-com.svg" alt="Swimming icon" width="72" /> |
+| `TaekwondoIcon` | <img src="https://raw.githubusercontent.com/abdullahhakkaya/sports-react-icons/main/svgs/taekwondo-svgrepo-com.svg" alt="Taekwondo icon" width="72" /> |
+| `TennisIcon` | <img src="https://raw.githubusercontent.com/abdullahhakkaya/sports-react-icons/main/svgs/tennis-svgrepo-com.svg" alt="Tennis icon" width="72" /> |
+| `VolleyballIcon` | <img src="https://raw.githubusercontent.com/abdullahhakkaya/sports-react-icons/main/svgs/volleyball-svgrepo-com.svg" alt="Volleyball icon" width="72" /> |
+| `WrestlingIcon` | <img src="https://raw.githubusercontent.com/abdullahhakkaya/sports-react-icons/main/svgs/people-wrestling-light-skin-tone-svgrepo-com.svg" alt="Wrestling icon" width="72" /> |
 
 ## Attribution
 
